@@ -145,7 +145,6 @@ class ManagerTest {
 }
 
 
-
 //        manager.add(first);
 //        manager.add(second);
 //        manager.add(third);
